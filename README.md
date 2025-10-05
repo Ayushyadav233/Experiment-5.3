@@ -21,7 +21,7 @@ A beginner-friendly **Node.js + Express + MongoDB** experiment implementing a pe
 
 ## 📁 Folder Structure
 
-```
+
 
 Experiment-15/
 ├── controllers/
@@ -34,7 +34,6 @@ Experiment-15/
 ├── package.json                # Project dependencies and scripts
 └── README.md                   # Documentation
 
-````
 
 ---
 
@@ -213,9 +212,4 @@ Then open:
 
 > 🧠 *"A well-structured database is the foundation of every scalable application."*
 
-```
 
----
-
-Would you like me to also generate a **Postman Collection JSON file** for testing all endpoints (ready to import)?
-```
